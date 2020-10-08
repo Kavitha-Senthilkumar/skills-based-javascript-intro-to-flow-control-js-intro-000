@@ -34,5 +34,6 @@ if (age>=13 && age<=19)
 {
   return('You are a teenager');
 }
+if(age<=12){return('you are a kid')}
 return('You have an age')
 }
